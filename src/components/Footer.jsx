@@ -7,7 +7,7 @@ function Footer() {
       <div className="flex flex-col max-w-7xl mx-auto gap-10">
         <ProductLogo />
         <div className=" text-neutral-500">
-          <p>Created By Arya Saca</p>
+          <p>Created and Maintained By Arya Saca</p>
           <p>Lead of Product</p>
         </div>
       </div>
